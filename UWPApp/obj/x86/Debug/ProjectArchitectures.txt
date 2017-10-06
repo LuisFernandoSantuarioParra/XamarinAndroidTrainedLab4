@@ -1,0 +1,2 @@
+c:\users\shado\documents\visual studio 2017\Projects\Lab04\PCLProyect\PCLProyect.csproj;neutral
+c:\users\shado\documents\visual studio 2017\Projects\Lab04\UWPApp\UWPApp.csproj;x86
